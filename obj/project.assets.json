@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TI\\.Net\\DIO_cadastro_de_series_em_dotNet\\DIO_series\\DIO_series.csproj",
+      "projectUniqueName": "D:\\TI\\.Net\\DIO_cadastro_de_series_em_dotNet\\DIO_series.csproj",
       "projectName": "DIO_series",
-      "projectPath": "D:\\TI\\.Net\\DIO_cadastro_de_series_em_dotNet\\DIO_series\\DIO_series.csproj",
+      "projectPath": "D:\\TI\\.Net\\DIO_cadastro_de_series_em_dotNet\\DIO_series.csproj",
       "packagesPath": "C:\\Users\\Barcellos\\.nuget\\packages\\",
-      "outputPath": "D:\\TI\\.Net\\DIO_cadastro_de_series_em_dotNet\\DIO_series\\obj\\",
+      "outputPath": "D:\\TI\\.Net\\DIO_cadastro_de_series_em_dotNet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Barcellos\\AppData\\Roaming\\NuGet\\NuGet.Config"

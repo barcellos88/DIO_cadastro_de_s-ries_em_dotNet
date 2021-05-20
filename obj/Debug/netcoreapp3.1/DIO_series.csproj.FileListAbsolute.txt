@@ -1,0 +1,13 @@
+D:\TI\.Net\DIO_cadastro_de_series_em_dotNet\bin\Debug\netcoreapp3.1\DIO_series.exe
+D:\TI\.Net\DIO_cadastro_de_series_em_dotNet\bin\Debug\netcoreapp3.1\DIO_series.deps.json
+D:\TI\.Net\DIO_cadastro_de_series_em_dotNet\bin\Debug\netcoreapp3.1\DIO_series.runtimeconfig.json
+D:\TI\.Net\DIO_cadastro_de_series_em_dotNet\bin\Debug\netcoreapp3.1\DIO_series.runtimeconfig.dev.json
+D:\TI\.Net\DIO_cadastro_de_series_em_dotNet\bin\Debug\netcoreapp3.1\DIO_series.dll
+D:\TI\.Net\DIO_cadastro_de_series_em_dotNet\bin\Debug\netcoreapp3.1\DIO_series.pdb
+D:\TI\.Net\DIO_cadastro_de_series_em_dotNet\obj\Debug\netcoreapp3.1\DIO_series.csprojAssemblyReference.cache
+D:\TI\.Net\DIO_cadastro_de_series_em_dotNet\obj\Debug\netcoreapp3.1\DIO_series.AssemblyInfoInputs.cache
+D:\TI\.Net\DIO_cadastro_de_series_em_dotNet\obj\Debug\netcoreapp3.1\DIO_series.AssemblyInfo.cs
+D:\TI\.Net\DIO_cadastro_de_series_em_dotNet\obj\Debug\netcoreapp3.1\DIO_series.csproj.CoreCompileInputs.cache
+D:\TI\.Net\DIO_cadastro_de_series_em_dotNet\obj\Debug\netcoreapp3.1\DIO_series.dll
+D:\TI\.Net\DIO_cadastro_de_series_em_dotNet\obj\Debug\netcoreapp3.1\DIO_series.pdb
+D:\TI\.Net\DIO_cadastro_de_series_em_dotNet\obj\Debug\netcoreapp3.1\DIO_series.genruntimeconfig.cache
